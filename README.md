@@ -4,6 +4,7 @@
 
 - <b>Cyber Security Projects</b>
   - [Azure SOC / Honeynet](https://github.com/DamonM1/AzureHoneynet-SOC)
+  - [Active Directory Home Lab](https://github.com/DamonM1/HomeLabAD/tree/main)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/DamonM1/FileIntegrityMonitor/blob/main/FIM.ps1)
 - <b>Python</b>
