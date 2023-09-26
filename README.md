@@ -1,4 +1,4 @@
-<h1>Hi, I'm Damon! <br/>, <a href="https://www.linkedin.com/in/damon-mclaurin/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Damon! <br/> <a href="https://www.linkedin.com/in/damon-mclaurin/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
